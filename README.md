@@ -1,2 +1,2 @@
 # DanceExplorer
-looka here
+concept still in development
